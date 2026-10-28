@@ -10,6 +10,20 @@ It has three parts:
 
 > No sample character is included; you train and use your own character LoRA.
 
+## Examples
+
+Fictional example character, made with the code in this repo. Left: MOSS-Image raw. Right: after the character face fix
+(ArcFace similarity to the character: 0.32 → 0.43 on average; cafe selfie 0.26 → 0.50).
+
+![Market](examples/market_before_after.jpg)
+![Cafe selfie](examples/cafe_selfie_before_after.jpg)
+![Street](examples/street_before_after.jpg)
+
+Same image, two video engines (5 s each): [Wan 2.2](examples/video_wan22.mp4) · [FramePack Standard](examples/video_framepack.mp4)
+
+![Wan 2.2 frames](examples/video_wan22_frames.jpg)
+![FramePack frames](examples/video_framepack_frames.jpg)
+
 ---
 
 ## 1. Requirements

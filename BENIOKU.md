@@ -10,6 +10,20 @@ Kendi hayali karakterinizle **gerçekçi fotoğraflar** ve **kısa videolar** ü
 
 > Bu rehberde örnek karakter yoktur; kendi karakter LoRA'nızı eğitip kullanırsınız.
 
+## Örnekler
+
+Bu depodaki kodla üretilmiş hayali örnek karakter. Solda ham MOSS-Image, sağda karakter yüz düzeltmesi sonrası
+(karaktere ArcFace benzerliği ortalama 0,32 → 0,43; kafe selfie'sinde 0,26 → 0,50).
+
+![Pazar](examples/market_before_after.jpg)
+![Kafe selfie](examples/cafe_selfie_before_after.jpg)
+![Sokak](examples/street_before_after.jpg)
+
+Aynı resim, iki video motoru (5'er sn): [Wan 2.2](examples/video_wan22.mp4) · [FramePack Standart](examples/video_framepack.mp4)
+
+![Wan 2.2 kareleri](examples/video_wan22_frames.jpg)
+![FramePack kareleri](examples/video_framepack_frames.jpg)
+
 ---
 
 ## 1. Gereksinimler
