@@ -1,0 +1,17 @@
+{
+  "character_lora": "my_character_zimage.safetensors",
+  "trigger": "mychar woman",
+  "character_look": "26 years old woman, long dark brown wavy hair, green eyes, light freckles",
+  "face_strength": 0.45,
+  "scene_model": "moss_image_sft_bf16.safetensors",
+  "scene_text_encoder": "qwen3.5_9b_int8_convrot.safetensors",
+  "scene_vae": "flux2-vae.safetensors",
+  "scene_lora": "cndamiph_Candid_Amateur_iPhone_MOSS_v1.safetensors",
+  "scene_lora_trigger": "cndamiph",
+  "scene_lora_strength": 0.9,
+  "llm_model": "gemma3:12b",
+  "comfy_dir": "C:\\pinokio\\api\\comfy.git\\app",
+  "framepack_dir": "C:\\pinokio\\api\\Frame-Pack\\app",
+  "wan_dir": "C:\\pinokio\\api\\wan.git\\app",
+  "ready_folders": []
+}

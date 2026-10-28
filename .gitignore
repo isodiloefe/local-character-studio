@@ -1,0 +1,13 @@
+# kişisel ayarlar ve üretilen dosyalar
+atolye/ayarlar.json
+atolye/kayit.json
+atolye/resimler/
+atolye/videolar/
+atolye/loglar/
+araclar/cikti/
+gpu_kilit.lock
+gpu_kilit.sahip
+__pycache__/
+*.pyc
+*.safetensors
+*.gguf

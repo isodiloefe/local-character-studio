@@ -1,0 +1,6 @@
+flet>=0.85
+requests
+pillow
+numpy
+opencv-python>=4.8
+gradio_client
